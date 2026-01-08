@@ -1,7 +1,7 @@
 # 大三專題-Meidapipe 與 Unity 做結合
 <img width="1673" height="814" alt="屏幕截图 2026-01-09 024103" src="https://github.com/user-attachments/assets/81399403-2e44-427a-ae2d-8dd87e3b88f7" />
 
-![Uploading 屏幕截图 2026-01-09 024120.png…]()
+<img width="1675" height="787" alt="屏幕截图 2026-01-09 024120" src="https://github.com/user-attachments/assets/ff0bb603-43e7-494e-93a6-fc3e3bb6733d" />
 
 <img width="1147" height="575" alt="屏幕截图 2025-03-26 222951" src="https://github.com/user-attachments/assets/dadffcf6-aa60-41f8-a2ff-1940ae0ecfb4" />
 
